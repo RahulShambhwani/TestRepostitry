@@ -1,0 +1,17 @@
+{
+    "projectName": "TestProject",
+    "username": "rahul.shambhwani@appirio.com.training",
+    "id": "17c9f7c0-8aa1-11e8-84ab-07d5a9491bc7",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://rahulshambhwani2k18-dev-ed.my.salesforce.com",
+    "workspace": "D:\\Workspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
